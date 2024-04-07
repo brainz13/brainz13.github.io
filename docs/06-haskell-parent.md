@@ -1,6 +1,6 @@
 ---
 layout: page
-title: haskell
+title: Haskell
 nav_order: 6
 has_children: true
 ---
