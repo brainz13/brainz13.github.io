@@ -1,8 +1,8 @@
 ---
 layout: page
-title: SQL
-nav_order: 6
+title: c
+nav_order: 4
 has_children: true
 ---
 
-# SQL
+# C

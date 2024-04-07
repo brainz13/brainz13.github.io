@@ -1,8 +1,8 @@
 ---
 layout: page
-title: WPF
-nav_order: 3
+title: haskell
+nav_order: 6
 has_children: true
 ---
 
-# WPF
+# Haskell

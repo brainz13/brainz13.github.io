@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PowerShell
+title: python
 nav_order: 5
 has_children: true
 ---
 
-# PowerShell
+# Python
